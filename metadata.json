@@ -1,0 +1,6 @@
+{
+  "name": "WebPort",
+  "description": "A browser-native Web3 hosting and hosting-control protocol dashboard with cryptographic identities, decentralized site indexers, and token/wallet payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
